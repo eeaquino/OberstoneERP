@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="OberstoneERP.Data.Entities/OberstoneERP.Data.Entities.csproj" Id="7262dbd5-b1ff-4ba0-8b19-f7dc42344c85" />
+  <Project Path="OberstoneERP.Data.MariaDB/OberstoneERP.Data.MariaDB.csproj" Id="0260c9dc-b44d-4199-94f8-2fa668867fa0" />
+  <Project Path="OberstoneERP.Data.MSSQL/OberstoneERP.Data.MSSQL.csproj" Id="429e3e22-f36b-4dce-9c28-b495f8ff8217" />
+  <Project Path="OberstoneERP.Data.PostgreSQL/OberstoneERP.Data.PostgreSQL.csproj" Id="0ca0752f-f369-4b1d-8dea-8e72637f8865" />
+  <Project Path="OberstoneERP/OberstoneERP.csproj" />
+</Solution>
